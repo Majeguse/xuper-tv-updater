@@ -1,0 +1,15 @@
+{
+  "appName": "Xuper Tv NF",
+  "packageName": "com.android.mgstxNF",
+  "knownPackages": [
+    "com.android.mgstxNF",
+    "com.xuper.netxxus"
+  ],
+  "versionCode": 43500,
+  "versionName": "4.35.0",
+  "apkUrl": "https://github.com/Majeguse/xuper-tv-updater/releases/download/v4.35.0/XuperTv-N0F4C3-v4.35.0-OFICIAL-ModByNF.apk",
+  "fileSize": 34221253,
+  "sha256": "c9c12fb0dec5078ae9686a76e7ef3a046a56437e1db3110eff105ddfa18c95a0",
+  "signerSha256": "366fa8f1a4e4e9037bbda4b21b3bec9b6112eff96bfdc53dc4b49207f3f2cbac",
+  "notes": "Ultima version Xuper Tv N0F4C3 v4.35.0"
+}
